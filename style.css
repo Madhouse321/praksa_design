@@ -1,0 +1,546 @@
+
+.bg-custom{
+    background-color: #b50014;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    position: relative;
+    top:46%;
+}
+
+.carousel-control-prev > .carousel-control-prev-icon{
+    left:250%;
+}
+
+.carousel-control-next > .carousel-control-next-icon{
+    right:250%;
+}
+
+.carousel-control-next:link, .carousel-control-prev:link{
+    opacity: 1;
+}
+.carousel .carousel-indicators .active{
+    background-color: #b50014 !important;
+}
+
+nav .navbar-nav li a{
+    color: white !important;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    }
+
+    #valami {
+        text-align: end;
+        padding-top: 2px;
+        font-size: 13px;
+        background-color: black;
+        color:white
+    }
+
+    .container-fluid img{
+        padding-top: 2px;
+        padding-bottom: 4px;
+        padding-right: 3px;
+    }
+
+
+.container-fluid > #time{
+
+    margin-right: 470px;
+}
+
+.container-fluid > #text{
+    font-weight: bold;
+}
+
+#logo{
+    position: absolute;
+    top:3px;
+    z-index: 15;
+    left:300px;
+    width: 150px;
+}
+
+.lefttext{
+    text-align: left;
+    float:left;
+    margin-right: 110px;
+    width: 350px;
+
+}
+.foodtable{
+    width: 350px;
+}
+
+
+#firstpart{
+    width: 400px;
+    padding-right: 80px;
+}
+#secpart{
+    float:left;
+    width: 350px;
+}
+
+
+  .carousel .carousel-indicators li {
+   width: 10px;
+   height: 10px;
+   border-radius: 100%;
+   border:2px solid #fff;
+   opacity: 1;
+ }
+
+ 
+  #sec{
+      padding-bottom: 15px;
+  }
+
+ #row{
+     padding-top: 100px;
+     padding-bottom: 100px;
+  
+  }
+
+  .container-fluid .row .col >h3 {
+      padding-bottom: 30px;
+  }
+
+  .container-fluid .row .col >h2 {
+    padding-top: 50px;
+}
+
+
+.container-fluid .row > #fix , .container-fluid .row #fix > img , .container-fluid .row > #fuszerkep,  .container-fluid .row #fuszerkep > img, .container-fluid >img{
+    padding: 0;
+}
+
+
+#moretxt{
+    padding-top: 100px;
+    color: white;
+    background-color: black;
+    padding-bottom: 100px;
+}
+
+#moretxt >div{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#h3text{
+    padding-bottom: 50px;
+}
+
+
+#cuccos{
+    background-color: black;
+}
+#incuccos{
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    
+    padding-bottom: 100px;
+    background-color: black;
+}
+
+#fuszertop{
+    background-color: #b50014;
+    color: #fff;
+}
+
+#fuszer{
+    width: 350px;
+    padding-top:200px;
+    margin: auto;
+}
+
+#fuszer > h4{
+    padding-bottom:15px;
+}
+
+#logo2{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    padding-top:100px;
+}
+
+#logo1{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    padding-top:100px;
+    padding-bottom: 100px;
+}
+
+#inmoretxt{
+    padding-top: 50px;
+}
+
+
+
+    .container-fluid  img{
+
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0;
+    }
+
+    .later{
+        display: none;
+    }
+
+    #dryalte{
+        background-color:black;
+        color:white;
+    }
+
+    .dryalteBtn{
+        background-color: #b50014;
+        border-radius: 15px;
+        color:white;
+        padding: 3px;
+        border:1px solid white;
+        width: 150px;
+        margin-top:15px;
+    }
+
+
+    #buchen{
+        background-color: #b50014;
+        color:white;
+    }
+
+
+    #fleisch{
+        background-image: url("pictures/80457d7e9d392ee84954d90d13d15d69@2x\ 1-1.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: #252525;
+        height: 500px;
+    }
+
+    #fleisch > h3{
+        line-height: 200px;
+        color:white;
+        text-align: center;
+        margin: auto;
+    }
+
+    #opentime{
+        background-color: black;
+        color:white;
+        display: flex;
+        justify-content: end;
+    }
+
+
+
+    #metz{
+        background-color: black;
+        color:white;
+    }
+
+    #auszei,#empf,#alle{
+        background-color: black;
+        color:white;
+    }
+    #empf >h4 , #empf >h6
+    {
+        text-align: center;
+    }
+
+    #buchentxt{
+        width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #dryaltetxt{
+        justify-content: right;
+    }
+
+    .buchenBtnFix
+    {
+        display: flex;
+        justify-content: center;
+    }
+
+    .gehenBtn{
+        background-color: #b50014;
+        border-radius: 15px;
+        color: white;
+        padding: 3px;
+        border: 1px solid white;
+        width: 150px;
+        margin-top: 15px;
+    }
+    
+
+    .buchenBtnFix > .buchenBtn{
+        background-color: white;
+        color:#252525;
+        border:1px solid #b50014;
+        padding: 5px;
+        width: 200px;
+        border-radius: 15px;
+    }
+
+    .grullBtn{
+        background-color: white;
+        color:#252525;
+        border:1px solid #b50014;
+        padding: 5px;
+        width: 200px;
+        border-radius: 15px;
+    }
+
+    .carousel-caption{
+        background-color:rgba(37,37,37,0.5);
+            position: absolute;
+            left:0% !important;
+            top: 30% !important;
+            z-index: 10 !important;
+            padding-top: 20px !important;
+            padding-left: 200px !important;
+            bottom: 100px !important;
+            color: #fff;
+            text-align: center;
+    }
+
+
+    #footerimage{
+        display: flex;
+        margin-left:auto;
+        margin-right: auto;
+        width: 100px;
+    }
+
+    .footertxt, .footertxtright{
+        color:white;
+    }
+
+    .fa {
+        text-align: center;
+        color:white;
+        border:2px solid white;
+        border-radius: 50%;
+        padding: 5px;
+      }
+
+      #captiontext{
+          font-size: 18px;
+          padding-right: 15px;
+      }
+
+      .bottombg{
+        background-color: #66000b;
+        color:white;
+        font-size:10px;
+      }
+
+      #linkstyle{
+          text-decoration: underline;
+      }
+
+      .nagradatxt{
+          text-align: center;
+          color:gray;
+      }
+
+      .textslider{
+          background-color: #252525;
+          color:white;
+      }
+
+      .carousel-item-next, .carousel-item-prev, .carousel-item .active{
+
+        display: flex;
+        justify-content: center;
+      }
+
+      .textsliderBg{
+          background-color: black;
+      }
+
+
+      .znakposs{
+          position: absolute;
+          bottom:0px;
+          right:0px;
+      }
+
+      .empf{
+          color:gray;
+      }
+
+      #clock{
+          display: inline;
+      }
+    @media (min-width: 1000px){
+
+
+
+        .navbar-expand-custom {
+            flex-direction: row;
+            flex-wrap: nowrap;
+            justify-content: flex-start;
+        }
+        .navbar-expand-custom .navbar-nav {
+            flex-direction: row;
+        }
+        .navbar-expand-custom .navbar-nav .nav-link {
+            padding-right: .5rem;
+            padding-left: .5rem;
+        }
+        .navbar-expand-custom .navbar-collapse {
+            display: flex!important;
+        }
+        .navbar-expand-custom .navbar-toggler {
+            display: none;
+        }
+    }
+
+    @media (max-width:1450px)
+    {
+        #fuszer{
+            width: 450px;
+        }
+    }
+
+    @media (max-width: 1600px){
+
+        #logo{
+            position: absolute;
+            top:0;
+            left:0;
+        }
+    }
+
+    @media (max-width:1250px)
+    {
+        #logo{
+            width: 80px;
+        }
+
+        .carousel-caption{
+            top:20% !important;
+            padding-left: 50px !important;
+            bottom: 50px !important;
+        }
+    }
+
+    @media (max-width:1000px)
+    {
+        .carousel-control-prev-icon, .carousel-control-next-icon{
+            position: relative;
+            top:43%;
+        }
+        
+        .carousel-control-prev > .carousel-control-prev-icon{
+            left:243%;
+        }
+        
+        .carousel-control-next > .carousel-control-next-icon{
+            right:243%;
+        }
+
+        #captiontext{
+            font-size: 15px;
+            padding-right: 15px;
+        }
+
+        .footertxt, .footertxtright{
+            font-size: 10px;
+
+        }
+    }
+    @media (max-width:800px){
+        .before{
+            display: none;
+        }
+        .later{
+            display: block;
+        }
+
+        #fleisch{
+            height: 300px;
+        }
+
+        #fuszer{
+            width: 300px;
+        }
+
+        #fleisch > h3{
+            line-height: 100px;
+            color:white;
+            text-align: center;
+            margin: auto;
+        }
+
+
+        #genusspic{
+            width: 100%;
+        }
+
+        .carousel-control-prev-icon, .carousel-control-next-icon{
+            position: relative;
+            top:45%;
+        }
+        
+        .carousel-control-prev > .carousel-control-prev-icon{
+            left:210%;
+        }
+        
+        .carousel-control-next > .carousel-control-next-icon{
+            right:210%;
+        }
+    }
+
+    @media (max-width:767px){
+
+        .genusstxt >h3{
+            text-align: center;
+        }
+
+        .dryalteBtn{
+            width: 150px;
+        }
+        .gehenBtn{
+            display: flex;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+        }
+        .tablepdg{
+            padding-top:30px;
+        }
+
+        .d-none{
+            display: block !important;
+        }
+
+        .footertxt ,.footertxtright{
+            text-align: center;
+        }
+    }
+
+    @media (max-width:467px){
+
+        .carousel-control-prev-icon, .carousel-control-next-icon{
+            position: relative;
+            top:43%;
+        }
+
+        
+        .carousel-caption{
+            top:10% !important;
+        }
+    }
+
